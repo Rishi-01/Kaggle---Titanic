@@ -5,6 +5,7 @@ import csv as csv
 import numpy as np
 data=[]
 
+
 with open('train.csv', 'rb') as f: # deals with opening and closing
     csv_file = csv.reader(open('train.csv', 'rb'))
     csv_file.next() # skips the header, so we can get to the data. 
