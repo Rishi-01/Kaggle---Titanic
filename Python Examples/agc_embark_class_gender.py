@@ -2,6 +2,7 @@
 # individual Embarked, their gender, or the class they traveled in. 
 # AGC 2013
 # 
+
 # 
 # Here Will will run generate predictions of who survived and who did not
 # from our basic Least Squares Regression model.
