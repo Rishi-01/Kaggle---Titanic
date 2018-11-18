@@ -6,6 +6,7 @@ import csv as csv
 import numpy as np
 
 
+
 # Load in the train.csv file
 # The  'rb' allows for reading only privileges. 
 csv_file_object = csv.reader(open('train.csv', 'rb')) 
