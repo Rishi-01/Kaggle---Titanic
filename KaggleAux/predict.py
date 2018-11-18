@@ -5,6 +5,7 @@ from patsy import dmatrices
 
 def get_dataframe_intersection(df, comparator1, comparator2):
     """
+    
     Return a dataframe with only the columns found in a comparative dataframe.
 
     Parameters
